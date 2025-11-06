@@ -6,7 +6,7 @@ export default function ForYou() {
 
   useEffect(() => {
     // Fetch data from trending.json
-    fetch("/trending.json")
+    fetch("/foryou.json")
       .then((res) => res.json())
       .then((data) => setProducts(data))
       .catch((err) => console.error("Failed to load trending products:", err));

@@ -26,7 +26,7 @@ export default function ProfilePage() {
       <div className="navbar bg-black shadow-sm mb-4">
         <div className="flex-1">
           <a className="btn btn-ghost text-xl text-white normal-case">
-            Instagram
+            Aivue
           </a>
         </div>
         <div className="flex-none">
@@ -49,7 +49,7 @@ export default function ProfilePage() {
       </div>
 
       {/* Profile Header */}
-      <div className="flex items-center mb-6 px-4 pb-5">
+      <div className="flex items-center mb-3 px-4 pb-5">
         <img
           src={user.profilePic}
           alt="Profile"
