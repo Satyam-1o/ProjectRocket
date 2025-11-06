@@ -3,14 +3,8 @@ import React from "react";
 const savedPhotos = [
   "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/SEPTEMBER/9/U8i8B4N0_18dc8a55127d4ce489bbf840edba04d6.jpg",
   "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/D4eyXaH1_03a2bb8c198948ab9de4e314e600589e.jpg",
-  "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/D4eyXaH1_03a2bb8c198948ab9de4e314e600589e.jpg",
-  "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/D4eyXaH1_03a2bb8c198948ab9de4e314e600589e.jpg",
-  "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/D4eyXaH1_03a2bb8c198948ab9de4e314e600589e.jpg",
-  "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/D4eyXaH1_03a2bb8c198948ab9de4e314e600589e.jpg",
-  "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/D4eyXaH1_03a2bb8c198948ab9de4e314e600589e.jpg",
-  "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/D4eyXaH1_03a2bb8c198948ab9de4e314e600589e.jpg",
-  "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/D4eyXaH1_03a2bb8c198948ab9de4e314e600589e.jpg",
-  "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/NOVEMBER/3/D4eyXaH1_03a2bb8c198948ab9de4e314e600589e.jpg",
+  "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24979426/2024/10/17/919d5752-3209-4ad5-955d-b7f1c93d91911729151427439-NOBERO-Hooded-Drop-Shoulder-Sleeves-Oversized-Sweatshirt-527-5.jpg",
+  "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2025/OCTOBER/16/QeucjdZq_a2a7df8c3c5046a48635234bb96b23e4.jpg",
 ];
 
 export default function ProfilePage() {
